@@ -1,5 +1,5 @@
 ## To-do
-Here's what I'd like to add to the font right now. If you happen to have any suggestion or anything, feel free to open an issue to discuss it.
+Here's what I'd like to add to the font right now. If you happen to have any suggestions or feedback, feel free to open an issue to discuss it.
 
 ### Alpha
 - [x] Uppercase characters
